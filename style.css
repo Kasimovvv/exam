@@ -1,0 +1,78 @@
+h1 {
+  color: blue;
+  background-color: aqua;
+  border-radius: 30px;
+  text-align: center;
+  border: solid red;
+}
+
+.qizil {
+  color: red;
+}
+h2 {
+  color: green;
+}
+.text {
+  color: green;
+  background-color: yellow;
+  text-align: center;
+}
+
+img {
+  height: 400px;
+}
+.text{
+    color: green;
+    background-color:yellow ;
+    text-align: center;
+}
+.fikr{
+    color: green;
+}
+.text{
+    color: green;
+}
+button{
+    background-color: cadetblue;
+    height: 30px;
+    width: 200px;
+    color: aliceblue;
+}
+.uu{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+th{
+    padding: 10px;
+    border: 1px solid white;
+    border-collapse:collapse ;
+}
+
+table{
+    width: 100%;
+}
+.oo{
+    width: 200px;
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+.mm{
+    width: 200px;
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+}
+.ii{
+    text-align: center;
+}
+.qq{
+    text-align: center;
+}
+.ll{
+    width: 200px;
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+}
